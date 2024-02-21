@@ -1,0 +1,3 @@
+#!/bin/bash
+# Use ss command to display listening sockets with PID and name of the program
+ss -tlnp
